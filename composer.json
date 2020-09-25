@@ -22,7 +22,7 @@
         "ext-openssl": "*",
         "ext-json": "*",
         "laravel/framework": "^7.4.0",
-        "laravel/passport": "^8.4.3",
+        "laravel/passport": "^9.3.2",
         "optimus/api-consumer": "^0.3.0"
     },
     "autoload": {
