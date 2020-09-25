@@ -1,5 +1,5 @@
 {
-    "name": "dzangolab/laravel-api-auth",
+    "name": "dev-roshan/laravel-api-auth",
     "description": "Authentication and authorization service for laravel api projects.",
     "type": "library",
     "require-dev": {
