@@ -21,7 +21,7 @@
     "require": {
         "ext-openssl": "*",
         "ext-json": "*",
-        "laravel/framework": "^7.4.0",
+        "laravel/framework": "^8.0",
         "laravel/passport": "^9.3.2",
         "optimus/api-consumer": "^0.3.0"
     },
